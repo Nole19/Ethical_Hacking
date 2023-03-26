@@ -1,0 +1,6 @@
+scapy
+NetfilterQueue
+pynput
+bs4
+base64
+socket
