@@ -32,6 +32,6 @@ Here you can find different types of malwares.
 - Backdoor. This backdoor is saves inside of procecess and after reboot saves. 
 - Keylogger. It sends all info to your mail. You should add mail and password in file 
 - Network attacks. Scanner of networks. Arp and dns spoofing.
--Replace and download. Replaces inside network files to download. Works with backdoor 
--Valnurability scanner. Scans your system for different malware
+- Replace and download. Replaces inside network files to download. Works with backdoor 
+- Valnurability scanner. Scans your system for different malware
 
